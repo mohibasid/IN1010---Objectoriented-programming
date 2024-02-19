@@ -1,7 +1,7 @@
 # IN1010: Object-Oriented Programming - Mandatory Submissions
 
 ## About This Repository
-This repository contains my solutions to the mandatory assignments in the course IN1010: Object-Oriented Programming at the University of Oslo. Here you will find code, documentation, and reflection notes related to each task.
+This repository contains my solutions to the mandatory assignments in the course IN1010: Object-Oriented Programming at the University of Oslo.
 
 
 ## Course Information
