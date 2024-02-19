@@ -13,7 +13,6 @@ Semester: Spring 2022
 Each folder in the repository represents a mandatory submission and contains the following:
 
 Source Code: Complete source code for the assignment.
-README: Specific instructions and task descriptions for each submission.
 
 ### Submissions
 - Mandatory assignment 1
