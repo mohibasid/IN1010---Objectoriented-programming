@@ -1,31 +1,33 @@
-# IN1010: Objektorientert Programmering - Obligatoriske Innleveringer
+# IN1010: Object-Oriented Programming - Mandatory Submissions
 
-## Om Dette Repositoriet
-Dette repositoriet inneholder mine løsninger på de obligatoriske innleveringene i faget IN1010: Objektorientert Programmering ved Universitetet i Oslo. Her finner du kode, dokumentasjon og refleksjonsnotater knyttet til hver oppgave.
-
-## Faginformasjon
-Fagkode: IN1010
-Institusjon: Universitetet i Oslo (UiO)
-Semester: Vår 2022
-
-## Struktur:
-Hver mappe i repositoriet representerer en obligatorisk innlevering og inneholder følgende:
-
-Kildekode: Fullstendig kildekode for oppgaven.
-README: Spesifikke instruksjoner og oppgavebeskrivelser for hver innlevering.
-
-### Innleveringer
-- Oblig 1
-- Oblig 2:
-- Oblig 3
+## About This Repository
+This repository contains my solutions to the mandatory assignments in the course IN1010: Object-Oriented Programming at the University of Oslo. Here you will find code, documentation, and reflection notes related to each task.
 
 
-## Ressurser
-- Kursweb for IN1010
-- Java Dokumentasjon
+## Course Information
+Course Code: IN1010
+Institution: University of Oslo (UiO)
+Semester: Spring 2022
 
-## Lisens
-Merk at all kode og materiale i dette repositoriet er ment for pedagogiske formål og personlig bruk. Det er ikke tillatt å kopiere eller distribuere denne koden for bruk i andre sammenhenger uten tillatelse.
+## Structure:
+Each folder in the repository represents a mandatory submission and contains the following:
 
-## Kontakt
-E-post: mohibas@uio.no
+Source Code: Complete source code for the assignment.
+README: Specific instructions and task descriptions for each submission.
+
+### Submissions
+- Mandatory assignment 1
+- Mandatory assignment 2
+- Mandatory assignment 3
+
+
+## Resources
+- Course web for IN1010
+- Java Documentation
+
+## License
+Note that all code and materials in this repository are intended for educational purposes and personal use. It is not permitted to copy or distribute this code for use in other contexts without permission.
+
+## Contact
+E-mail: mohibas@uio.no
+LinkedIn: https://www.linkedin.com/in/mohib-ahmad-siddiqui-481002249/ 
